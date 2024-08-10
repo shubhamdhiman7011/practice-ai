@@ -1,5 +1,5 @@
 
-import google.generativeai as genai
+import google.generativeai as 
 import os
 
 # Fetch API key from environment variable
